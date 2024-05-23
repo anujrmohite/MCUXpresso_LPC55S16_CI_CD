@@ -1,7 +1,7 @@
 # Experimental GitHub action. Uses native GitHub machine, won't work for our cross-platform project!
 name: C/C++ CI Test
 
-# Controls when the workflow will run
+# THis Controls when the workflow will run
 on:
   workflow_dispatch:
   # Triggers the workflow on push and pull-request but only for the main branch
